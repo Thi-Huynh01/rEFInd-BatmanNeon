@@ -5,7 +5,7 @@ Batman-themed rEFInd boot loader.
 
 ## Installation (Ubuntu)
 
-1. Clone this repository git clone
+1. Clone this repository
  ```sh
  https://github.com/Thi-Huynh01/rEFInd-BatmanNeon
  ```
