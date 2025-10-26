@@ -7,7 +7,7 @@ Batman-themed rEFInd boot loader.
 
 1. Clone this repository
  ```sh
- https://github.com/Thi-Huynh01/rEFInd-BatmanNeon
+ git clone https://github.com/Thi-Huynh01/rEFInd-BatmanNeon
  ```
 2. Find rEFInd EFI directory and mount (ex: mount /dev/nvme0n1p1 /mnt)
 3. In your refind directory, create "themes" directory if not created already.
